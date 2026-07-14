@@ -1,76 +1,160 @@
 <div align="center">
 
-# Hi there, I'm Vishnu Kumar 👋
-### Aspiring Cybersecurity Professional | Bug Bounty Hunter | Builder of AI-Powered Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Vishnu%20Kumar&fontSize=65&fontColor=2E8B57&fontAlignY=40&desc=Hunting%20Bugs.%20Securing%20Systems.%20Writing%20Python.%20%F0%9F%94%90&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishnukumar001&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![Twitter](https://img.shields.io/badge/Twitter-@rudra__cyb-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@rudra_cyb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-kumar)
-[![Instagram](https://img.shields.io/badge/Instagram-vishnujadaunn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishnujadaunn)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bloodevolver_35393)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=2E8B57&center=true&vCenter=true&width=700&background=00000000&lines=Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%7C+Web+App+Security+%F0%9F%94%8D;Learning+Python%2C+Networking+%26+Git%2FGitHub+%F0%9F%90%8D;Always+Curious%2C+Always+Digging+Deeper.+%E2%9A%A1)](https://github.com/vishnukumar001)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vishnukumar001&color=2E8B57&style=flat-square&label=Profile+Views)](https://github.com/vishnukumar001)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/vishnukumar001?label=Followers&style=flat-square&color=2E8B57&labelColor=000000)](https://github.com/vishnukumar001?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/vishnukumar001?label=Total%20Stars&style=flat-square&color=2E8B57&labelColor=000000)](https://github.com/vishnukumar001)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="developer illustration gif" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxMm43djg1ejY1NGNhOGI5bjQyb3dnd2I1NWxvZTEydmdiNjY4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-- 🔐 Passionate about **Bug Bounty Hunting** and **Web Application Security**
-- 🌱 Currently deepening my skills in **JavaScript, Git & GitHub, and AI Tools**
+## 🛡️ Hey, I'm Vishnu!
+
+```yaml
+name: Vishnu Kumar
+role: Aspiring Cybersecurity Professional
+loves: [Bug Bounty Hunting, Web App Security, Clean Python]
+learning: [Python, Networking, Git & GitHub, Bug Bounty Methodology]
+motto: "Every vulnerability found is a lesson earned."
+```
+
+- 🔐 Passionate about **Cybersecurity** — the mindset, the tools, the constant cat-and-mouse
+- 🎯 Focused on **Bug Bounty Hunting** and **Web Application Security**
+- 🐍 Currently sharpening my skills in **Python**, **Networking**, and my **Git & GitHub** workflow
 - 💻 Check out all my work → **[github.com/vishnukumar001](https://github.com/vishnukumar001)**
-- 💬 Ask me about **Bug Bounty, AI Tools, or Web Development**
-- 📄 See my full experience → **[My Portfolio](https://dreamy-elf-82a6a8.netlify.app/)**
+- 💬 Ask me about **Bug Bounty, Python, Networking, or Git/GitHub**
+- 📄 Full experience → **[My Portfolio](https://dreamy-elf-82a6a8.netlify.app/)**
 - 📫 Reach me at **vrthakur17@gmail.com**
-- ⚡ Fun fact: I love hunting down security vulnerabilities and building AI-powered projects in my free time.
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="45" height="45"/>&nbsp;
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" alt="Bulma" width="45" height="45"/>
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=2E8B57)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=2E8B57)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=2E8B57)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=2E8B57)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=2E8B57)
+
+**— Tools & Platforms —**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=2E8B57)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2E8B57)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=2E8B57)
+![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=2E8B57)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=2E8B57)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=2E8B57)
+
+**— Core Strengths —**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&labelColor=000000)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-2E8B57?style=for-the-badge&labelColor=000000)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&labelColor=000000)
+![Web Security](https://img.shields.io/badge/Web_App_Security-2E8B57?style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishnukumar001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishnu's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=tokyonight&hide_border=true" alt="Vishnu's GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishnukumar001&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&ring_color=2E8B57&count_private=true&include_all_commits=true&border_radius=12" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar001&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&text_color=c9d1d9&border_radius=12" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=dark&hide_border=true&background=000000&ring=2E8B57&fire=2E8B57&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=8b949e&border_radius=12" width="500"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukumar001&bg_color=000000&color=2E8B57&line=2E8B57&point=e6e6e6&area_color=2E8B57&area=true&hide_border=true&radius=12" width="96%"/>
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🎯 Focus Areas
 
 <div align="center">
 
-📫 **Email:** vrthakur17@gmail.com &nbsp;|&nbsp; 🌐 **Portfolio:** [dreamy-elf-82a6a8.netlify.app](https://dreamy-elf-82a6a8.netlify.app/) &nbsp;|&nbsp; 💻 **GitHub:** [@vishnukumar001](https://github.com/vishnukumar001)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-passion-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=000000)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-active-2E8B57?style=for-the-badge&logo=bugatti&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-learning-2E8B57?style=for-the-badge&logo=python&logoColor=000000)
+![Networking](https://img.shields.io/badge/Networking-learning-2E8B57?style=for-the-badge&logo=cisco&logoColor=000000)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-practicing-2E8B57?style=for-the-badge&logo=git&logoColor=000000)
+
+<sub>Swapped in for the GitHub Trophies widget — it's a shared free service that has repeatedly failed to load for this profile. Want me to add it back anyway? Just ask.</sub>
 
 </div>
 
+---
+
+## 💫 Right Now I'm...
+
+```
+ 🐍  Sharpening Python fundamentals          →  Scripts every day
+ 🌐  Learning Networking from the ground up  →  Packets & protocols
+ 🔓  Practicing Bug Bounty methodology       →  Reading, testing, reporting
+ ⚙️   Deepening Git & GitHub workflows        →  Cleaner commits, better repos
+ 🛡️   Building a cybersecurity mindset        →  Curiosity over comfort
+```
+
+---
+
+## 💬 Words I Live By
+
 <div align="center">
 
-⭐ *"I enjoy finding security vulnerabilities and building AI-powered projects."* ⭐
+> *"Once I lose my control, I don't care who stands against me."*
+>
+> **— Abhimanyu 🛡️**
+
+</div>
+
+---
+
+## 🌸 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2E8B57)](https://github.com/vishnukumar001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://linkedin.com/in/vishnu-kumar)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=2E8B57)](https://twitter.com/rudra_cyb)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=2E8B57)](https://instagram.com/vishnujadaunn)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=2E8B57)](mailto:vrthakur17@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=2E8B57)](https://discord.gg/bloodevolver_35393)
+
+<br/>
+
+*Always open to collaborations, conversations, and hunting bugs together.* 🤝
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=130&section=footer&text=Secure%20by%20day.%20Learning%20by%20night.%20%F0%9F%94%90&fontSize=16&fontColor=2E8B57&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
