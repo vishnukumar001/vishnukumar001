@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" alt="hacking gif" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="developer illustration gif" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxMm43djg1ejY1NGNhOGI5bjQyb3dnd2I1NWxvZTEydmdiNjY4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ## 🛡️ Hey, I'm Vishnu!
 
@@ -88,7 +88,7 @@ motto: "Every vulnerability found is a lesson earned."
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishnukumar001&bg_color=000000&color=2E8B57&line=2E8B57&point=e6e6e6&area_color=2E8B57&area=true&hide_border=true&radius=12" width="96%" height="300"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukumar001&bg_color=000000&color=2E8B57&line=2E8B57&point=e6e6e6&area_color=2E8B57&area=true&hide_border=true&radius=12" width="96%" height="300"/>
 
 <br/>
 
@@ -117,22 +117,6 @@ motto: "Every vulnerability found is a lesson earned."
 ![Python](https://img.shields.io/badge/Python-learning-2E8B57?style=for-the-badge&logo=python&logoColor=000000)
 ![Networking](https://img.shields.io/badge/Networking-learning-2E8B57?style=for-the-badge&logo=cisco&logoColor=000000)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-practicing-2E8B57?style=for-the-badge&logo=git&logoColor=000000)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnukumar001/vishnukumar001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnukumar001/vishnukumar001/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vishnukumar001/vishnukumar001/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<sub>This only appears once the workflow below has run — see the setup note under "How to activate the pieces below".</sub>
 
 </div>
 
@@ -178,18 +162,6 @@ motto: "Every vulnerability found is a lesson earned."
 *Always open to collaborations, conversations, and hunting bugs together.* 🤝
 
 </div>
-
----
-
-## ⚙️ How to activate the pieces below
-
-The Trophies card works immediately — no setup needed, it just reads your public GitHub data live.
-
-The **snake animation** needs one extra step because it isn't a live image — it's a picture that GitHub regenerates for you on a schedule and stores in your own repo:
-
-1. In your `vishnukumar001/vishnukumar001` repo, create the file `.github/workflows/snake.yml` and paste in the workflow provided alongside this README (`snake.yml`).
-2. Commit it to the `main` branch, then go to the **Actions** tab and run it once manually (`Run workflow`) instead of waiting for the 6‑hour schedule.
-3. On success, it creates a new branch called `output` in your repo holding the generated SVGs — that's what the image tags above point to. Give it a minute after the run finishes, then refresh your profile page.
 
 ---
 
