@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Vishnu%20Kumar&fontSize=65&fontColor=2E8B57&fontAlignY=40&desc=Hunting%20Bugs.%20Securing%20Systems.%20Writing%20Python.%20%F0%9F%94%90&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=230&section=header&text=Vishnu%20Kumar&fontSize=72&fontColor=2E8B57&fontAlignY=38&desc=Hunting%20Bugs.%20Securing%20Systems.%20Writing%20Python.%20%F0%9F%94%90&descSize=22&descAlignY=62&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=2E8B57&center=true&vCenter=true&width=700&background=00000000&lines=Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%7C+Web+App+Security+%F0%9F%94%8D;Learning+Python%2C+Networking+%26+Git%2FGitHub+%F0%9F%90%8D;Always+Curious%2C+Always+Digging+Deeper.+%E2%9A%A1)](https://github.com/vishnukumar001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2E8B57&center=true&vCenter=true&width=800&background=00000000&lines=Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%7C+Web+App+Security+%F0%9F%94%8D;Learning+Python%2C+Networking+%26+Git%2FGitHub+%F0%9F%90%8D;Always+Curious%2C+Always+Digging+Deeper.+%E2%9A%A1)](https://github.com/vishnukumar001)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" alt="developer illustration gif" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxMm43djg1ejY1NGNhOGI5bjQyb3dnd2I1NWxvZTEydmdiNjY4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="hacking gif" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🛡️ Hey, I'm Vishnu!
 
@@ -36,7 +36,7 @@ motto: "Every vulnerability found is a lesson earned."
 - 💻 Check out all my work → **[github.com/vishnukumar001](https://github.com/vishnukumar001)**
 - 💬 Ask me about **Bug Bounty, Python, Networking, or Git/GitHub**
 - 📄 Full experience → **[My Portfolio](https://dreamy-elf-82a6a8.netlify.app/)**
-- 📫 Reach me at **vrthakur17@gmail.com**
+- 📫 Reach me at **[vrthakur17@gmail.com](mailto:vrthakur17@gmail.com)**
 
 <br clear="right"/>
 
@@ -78,17 +78,31 @@ motto: "Every vulnerability found is a lesson earned."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishnukumar001&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&ring_color=2E8B57&count_private=true&include_all_commits=true&border_radius=12" height="165"/>
+<img src="https://readmestats.999857.xyz/api?username=vishnukumar001&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&ring_color=2E8B57&count_private=true&include_all_commits=true&border_radius=12" width="400" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar001&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&text_color=c9d1d9&border_radius=12" height="165"/>
+<img src="https://readmestats.999857.xyz/api/top-langs/?username=vishnukumar001&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&text_color=c9d1d9&border_radius=12" width="400" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=dark&hide_border=true&background=000000&ring=2E8B57&fire=2E8B57&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=8b949e&border_radius=12" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=dark&hide_border=true&background=000000&ring=2E8B57&fire=2E8B57&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=8b949e&border_radius=12" width="500" height="200"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukumar001&bg_color=000000&color=2E8B57&line=2E8B57&point=e6e6e6&area_color=2E8B57&area=true&hide_border=true&radius=12" width="96%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishnukumar001&bg_color=000000&color=2E8B57&line=2E8B57&point=e6e6e6&area_color=2E8B57&area=true&hide_border=true&radius=12" width="96%" height="300"/>
+
+<br/>
+
+<sub>Switched the stats & top-languages cards to a load-balanced mirror, and the activity graph to its current official domain — both are the fixes the project maintainers themselves recommend for the original demo servers going down under traffic. If a card ever goes blank again, it's that specific free host having a bad moment; just refresh. Self-hosting your own copy (one-click "Deploy to Vercel" button on the project's GitHub page) removes this dependency completely if you want it rock-solid long-term.</sub>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishnukumar001&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/vishnukumar001)
 
 </div>
 
@@ -104,7 +118,21 @@ motto: "Every vulnerability found is a lesson earned."
 ![Networking](https://img.shields.io/badge/Networking-learning-2E8B57?style=for-the-badge&logo=cisco&logoColor=000000)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-practicing-2E8B57?style=for-the-badge&logo=git&logoColor=000000)
 
-<sub>Swapped in for the GitHub Trophies widget — it's a shared free service that has repeatedly failed to load for this profile. Want me to add it back anyway? Just ask.</sub>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnukumar001/vishnukumar001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnukumar001/vishnukumar001/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vishnukumar001/vishnukumar001/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>This only appears once the workflow below has run — see the setup note under "How to activate the pieces below".</sub>
 
 </div>
 
@@ -139,17 +167,29 @@ motto: "Every vulnerability found is a lesson earned."
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2E8B57)](https://github.com/vishnukumar001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://linkedin.com/in/vishnu-kumar)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=2E8B57)](https://twitter.com/rudra_cyb)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=2E8B57)](https://instagram.com/vishnujadaunn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://www.linkedin.com/in/vishnu-kumar-218245380/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=2E8B57)](https://x.com/rudra_cyb)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=2E8B57)](https://www.instagram.com/vishnujadaunn)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=2E8B57)](mailto:vrthakur17@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=2E8B57)](https://discord.gg/bloodevolver_35393)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=2E8B57)](https://discord.com/users/bloodevolver_35393)
 
 <br/>
 
 *Always open to collaborations, conversations, and hunting bugs together.* 🤝
 
 </div>
+
+---
+
+## ⚙️ How to activate the pieces below
+
+The Trophies card works immediately — no setup needed, it just reads your public GitHub data live.
+
+The **snake animation** needs one extra step because it isn't a live image — it's a picture that GitHub regenerates for you on a schedule and stores in your own repo:
+
+1. In your `vishnukumar001/vishnukumar001` repo, create the file `.github/workflows/snake.yml` and paste in the workflow provided alongside this README (`snake.yml`).
+2. Commit it to the `main` branch, then go to the **Actions** tab and run it once manually (`Run workflow`) instead of waiting for the 6‑hour schedule.
+3. On success, it creates a new branch called `output` in your repo holding the generated SVGs — that's what the image tags above point to. Give it a minute after the run finishes, then refresh your profile page.
 
 ---
 
