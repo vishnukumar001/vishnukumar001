@@ -1,172 +1,289 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vishnu%20Kumar&fontSize=70&animation=twinkling" alt="Vishnu Kumar profile header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=230&section=header&text=Vishnu%20Kumar&fontSize=72&fontColor=2E8B57&fontAlignY=38&desc=Hunting%20Bugs.%20Securing%20Systems.%20Writing%20Python.%20%F0%9F%94%90&descSize=22&descAlignY=62&animation=twinkling" width="100%"/>
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/vishnu-kumar-218245380/">Vishnu Kumar</a></b>
+    </samp>
+</h3>
 
-<br/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2E8B57&center=true&vCenter=true&width=800&background=00000000&lines=Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%7C+Web+App+Security+%F0%9F%94%8D;Learning+Python%2C+Networking+%26+Git%2FGitHub+%F0%9F%90%8D;Always+Curious%2C+Always+Digging+Deeper.+%E2%9A%A1)](https://github.com/vishnukumar001)
+<p align="center">
+<samp>
+「 Breaking things to understand how to protect them • Aspiring Cybersecurity Professional &amp; Bug Bounty Hunter 」
+</samp>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-live-22c55e?style=flat-square&logo=netlify" alt="Portfolio live site" />
+  </a>
+  <a href="https://github.com/vishnukumar001/vishnukumar001">
+    <img src="https://img.shields.io/badge/profile%20repo-system%20README-a78bfa?style=flat-square&logo=github" alt="Profile repository badge" />
+  </a>
+  <a href="./docs/pages/COLLAB.md">
+    <img src="https://img.shields.io/badge/open%20to-collaboration-f59e0b?style=flat-square" alt="Open to collaboration" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishnukumar001&color=2E8B57&style=flat-square&label=Profile+Views)](https://github.com/vishnukumar001)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/vishnukumar001?label=Followers&style=flat-square&color=2E8B57&labelColor=000000)](https://github.com/vishnukumar001?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/vishnukumar001?label=Total%20Stars&style=flat-square&color=2E8B57&labelColor=000000)](https://github.com/vishnukumar001)
 
+<p align="center">
+  <img src="./docs/assets/svg/system/start_here_control_surface.svg" width="92%" alt="Start Here control surface linking the README to the website, labs, and collaboration path" />
+</p>
+
+<p align="center">
+  <a href="https://dreamy-elf-82a6a8.netlify.app/"><b>Website</b></a>
+  &nbsp;|&nbsp;
+  <a href="./docs/pages/PROJECTS.md"><b>Projects</b></a>
+  &nbsp;|&nbsp;
+  <a href="./docs/pages/COLLAB.md"><b>Collaboration</b></a>
+</p>
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/vishnukumar001)
+
+<!-- Title -->
+<p align="center">
+  <img src="./docs/assets/svg/pages/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
+
+<p align="center">
+
+<a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <img width="82%" src="./docs/assets/svg/system/portal_main.svg" alt="Vishnu System portal" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vishnukumar001/Yashi">
+  <img width="32%" src="./docs/assets/svg/system/neural_lab.svg" alt="Yashi AI Desktop Assistant" />
+</a>
+<a href="https://github.com/vishnukumar001/CertiChain">
+  <img width="32%" src="./docs/assets/svg/system/molecule_lab.svg" alt="CertiChain Blockchain Credentials" />
+</a>
+<a href="https://github.com/vishnukumar001/Linux-Journey">
+  <img width="32%" src="./docs/assets/svg/system/model_forge.svg" alt="Linux &amp; Security Journey" />
+</a>
+
+</p>
+
+<p align="center">
+  <a href="./docs/pages/PROJECTS.md">
+    <img width="34%" src="./docs/assets/svg/system/explore_labs_button.svg" alt="Explore Projects" />
+  </a>
+</p>
+
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/vishnukumar001)
+
+<p align="center">
+  <img src="./docs/assets/svg/pages/hirad_core.svg" width="100%" alt="System core panel" />
+</p>
+
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/vishnukumar001)
+
+
+# 🛠 Technologies, Projects, and Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32" alt="Bash"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" alt="Linux"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" alt="Git"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" alt="GitHub"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" alt="Docker"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32" alt="Postman"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="32" alt="Vim"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" alt="Figma"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" alt="C"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="32" alt="Networking"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32" alt="Nginx"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="32" alt="Electron"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="32" alt="Markdown"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="32" alt="Ubuntu"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" alt="Cloud"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<div style="width:220px;">
+  <a href="docs/pages/PROJECTS.md">
+    <img src="docs/assets/svg/pages/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+  </a>
 </div>
 
----
+</td>
 
-<img align="right" alt="developer illustration gif" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxMm43djg1ejY1NGNhOGI5bjQyb3dnd2I1NWxvZTEydmdiNjY4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<!-- FOCUS DOMAINS -->
+<td width="260" valign="top" align="center">
 
-## 🛡️ Hey, I'm Vishnu!
+<h3>🛡️ Focus Domains</h3>
+<br>
 
-```yaml
-name: Vishnu Kumar
-role: Aspiring Cybersecurity Professional
-loves: [Bug Bounty Hunting, Web App Security, Clean Python]
-learning: [Python, Networking, Git & GitHub, Bug Bounty Methodology]
-motto: "Every vulnerability found is a lesson earned."
-```
-
-- 🔐 Passionate about **Cybersecurity** — the mindset, the tools, the constant cat-and-mouse
-- 🎯 Focused on **Bug Bounty Hunting** and **Web Application Security**
-- 🐍 Currently sharpening my skills in **Python**, **Networking**, and my **Git & GitHub** workflow
-- 💻 Check out all my work → **[github.com/vishnukumar001](https://github.com/vishnukumar001)**
-- 💬 Ask me about **Bug Bounty, Python, Networking, or Git/GitHub**
-- 📄 Full experience → **[My Portfolio](https://dreamy-elf-82a6a8.netlify.app/)**
-- 📫 Reach me at **[vrthakur17@gmail.com](mailto:vrthakur17@gmail.com)**
-
-<br clear="right"/>
-
----
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-**— Languages —**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=2E8B57)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=2E8B57)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=2E8B57)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=2E8B57)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=2E8B57)
-
-**— Tools & Platforms —**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=2E8B57)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2E8B57)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=2E8B57)
-![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=2E8B57)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=2E8B57)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=2E8B57)
-
-**— Core Strengths —**
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&labelColor=000000)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-2E8B57?style=for-the-badge&labelColor=000000)
-![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&labelColor=000000)
-![Web Security](https://img.shields.io/badge/Web_App_Security-2E8B57?style=for-the-badge&labelColor=000000)
-
+<div style="width:220px;">
+    <a href="docs/pages/AI_DOMAIN.md">
+        <img src="docs/assets/svg/pages/ai_domains.svg" width="220" alt="Focus domains navigation panel">
+    </a>
 </div>
 
----
+</td>
 
-## 📊 GitHub Analytics
+</tr>
+</table>
 
-<div align="center">
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/vishnukumar001)
 
-<img src="https://readmestats.999857.xyz/api?username=vishnukumar001&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&ring_color=2E8B57&count_private=true&include_all_commits=true&border_radius=12" width="400" height="165"/>
-&nbsp;
-<img src="https://readmestats.999857.xyz/api/top-langs/?username=vishnukumar001&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=2E8B57&text_color=c9d1d9&border_radius=12" width="400" height="165"/>
+### 📊 Vital Statistics
 
-<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=dark&hide_border=true&background=000000&ring=2E8B57&fire=2E8B57&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=8b949e&border_radius=12" width="500" height="200"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=radical" alt="Streak" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnukumar001&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukumar001&bg_color=000000&color=2E8B57&line=2E8B57&point=e6e6e6&area_color=2E8B57&area=true&hide_border=true&radius=12" width="96%" height="300"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnukumar001&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/vishnukumar001?label=Total%20Stars&style=flat-square&color=36BCF7&labelColor=000000" alt="Total Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/vishnukumar001?label=Followers&style=flat-square&color=36BCF7&labelColor=000000" alt="Followers" />
+</p>
 
-<sub>Switched the stats & top-languages cards to a load-balanced mirror, and the activity graph to its current official domain — both are the fixes the project maintainers themselves recommend for the original demo servers going down under traffic. If a card ever goes blank again, it's that specific free host having a bad moment; just refresh. Self-hosting your own copy (one-click "Deploy to Vercel" button on the project's GitHub page) removes this dependency completely if you want it rock-solid long-term.</sub>
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/vishnukumar001)
 
-</div>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
 
----
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
 
-## 🏆 GitHub Trophies
+<h2>🤝 Collaboration</h2>
 
-<div align="center">
+I’m open to collaborating on:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnukumar001&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/vishnukumar001)
+<ul>
+  <li>Web application security &amp; penetration testing</li>
+  <li>Bug bounty hunting methodology &amp; recon</li>
+  <li>Python automation &amp; security tooling</li>
+  <li>AI desktop assistants &amp; developer co-pilots</li>
+</ul>
 
-</div>
+</td>
 
----
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <a href="docs/pages/COLLAB.md">
+        <img src="docs/assets/svg/pages/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+    </a>
+</td>
 
-## 🎯 Focus Areas
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
 
-<div align="center">
+<h2>📫 Contact</h2>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-passion-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=000000)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-active-2E8B57?style=for-the-badge&logo=bugatti&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-learning-2E8B57?style=for-the-badge&logo=python&logoColor=000000)
-![Networking](https://img.shields.io/badge/Networking-learning-2E8B57?style=for-the-badge&logo=cisco&logoColor=000000)
-![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-practicing-2E8B57?style=for-the-badge&logo=git&logoColor=000000)
+<br>
 
-</div>
+<a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <img src="https://img.shields.io/badge/Personal%20Website-dreamy--elf-36BCF7?style=for-the-badge&logo=netlify" alt="Personal website link">
+</a>
+<br><br>
 
----
+<a href="mailto:vrthakur17@gmail.com">
+  <img src="https://img.shields.io/badge/email-vrthakur17%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
 
-## 💫 Right Now I'm...
+<a href="https://www.linkedin.com/in/vishnu-kumar-218245380/">
+  <img src="https://img.shields.io/badge/linkedin-vishnu--kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
 
-```
- 🐍  Sharpening Python fundamentals          →  Scripts every day
- 🌐  Learning Networking from the ground up  →  Packets & protocols
- 🔓  Practicing Bug Bounty methodology       →  Reading, testing, reporting
- ⚙️   Deepening Git & GitHub workflows        →  Cleaner commits, better repos
- 🛡️   Building a cybersecurity mindset        →  Curiosity over comfort
-```
+<a href="https://x.com/rudra_cyb">
+  <img src="https://img.shields.io/badge/X-rudra__cyb-000000?style=for-the-badge&logo=x" alt="X profile link">
+</a>
 
----
+</td>
 
-## 💬 Words I Live By
+</tr>
+</table>
 
-<div align="center">
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/vishnukumar001)
 
-> *"Once I lose my control, I don't care who stands against me."*
->
-> **— Abhimanyu 🛡️**
+<p align="center">
+⚡ Breaking things to understand how to protect them. 🔐
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
 
-</div>
+<p align="center">
+  <a href="./.github/CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./.github/CONTRIBUTING.md">Contributing</a> ·
+  <a href="./.github/SECURITY.md">Security</a> ·
+  <a href="./docs/README.md">Docs</a> ·
+  <a href="./docs/pages/COLLAB.md">Collaboration</a> ·
+  <a href="./docs/meta/ROADMAP.md">Roadmap</a> ·
+  <a href="./docs/meta/STYLE_GUIDE.md">Style Guide</a> ·
+  <a href="./docs/meta/VISUAL_AUDIT.md">Visual Audit</a> ·
+  <a href="./docs/meta/SHOWCASE_STRATEGY.md">Showcase Strategy</a> ·
+  <a href="./docs/meta/ASSET_INDEX.md">Asset Index</a>
+</p>
 
----
 
-## 🌸 Let's Connect
 
-<div align="center">
+<p align="center">
+    <a href="docs/easter-eggs/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2E8B57)](https://github.com/vishnukumar001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://www.linkedin.com/in/vishnu-kumar-218245380/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=2E8B57)](https://x.com/rudra_cyb)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=2E8B57)](https://www.instagram.com/vishnujadaunn)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=2E8B57)](mailto:vrthakur17@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=2E8B57)](https://discord.com/users/bloodevolver_35393)
 
-<br/>
-
-*Always open to collaborations, conversations, and hunting bugs together.* 🤝
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=130&section=footer&text=Secure%20by%20day.%20Learning%20by%20night.%20%F0%9F%94%90&fontSize=16&fontColor=2E8B57&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
