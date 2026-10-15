@@ -40,8 +40,8 @@
 </p>
 
 <p align="center">
-    <a href="https://hirademami.github.io/neural-lab">
-        <img src="../assets/svg/pages/mlp_space.svg" alt="Neural lab and AI domain visualization" />
+    <a href="https://dreamy-elf-82a6a8.netlify.app/">
+        <img src="../assets/svg/pages/mlp_space.svg" alt="Security and AI domain visualization" />
     </a>
 </p>
 
@@ -51,17 +51,17 @@
   <img src="../assets/svg/pages/ai_core_domains_radar.svg" alt="AI core domains radar map" />
 </p>
 
-## Labs
+## Projects & Labs
 
 <p align="center">
-  <a href="./LABS.md"><b>Open dedicated Labs page</b></a>
+  <a href="./PROJECTS.md"><b>Open dedicated Projects page</b></a>
 </p>
 
-| Lab | Purpose |
+| Environment | Purpose |
 | --- | --- |
-| [Neural Lab](https://hirademami.github.io/neural-lab) | Interactive neural visualization and model intuition. |
-| [Molecule Lab](https://hirademami.github.io/molecules/index.html) | Hands-on molecule building from atoms, bonds, and structures. |
-| [Model Forge](https://hirademami.github.io/model-forge/index.html) | A guided environment for learning machine learning foundations. |
+| [Yashi AI](https://github.com/vishnukumar001/Yashi) | Desktop AI companion with voice interaction and task automation. |
+| [CertiChain](https://github.com/vishnukumar001/CertiChain) | Tamper-proof digital credentials powered by Blockchain &amp; IPFS. |
+| [Security Labs](https://github.com/vishnukumar001/Linux-Journey) | System administration, Linux security, and bug bounty methodologies. |
 
 ## Engineering Principles
 

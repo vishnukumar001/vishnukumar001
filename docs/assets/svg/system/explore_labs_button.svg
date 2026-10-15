@@ -48,7 +48,7 @@
     <animate attributeName="r" values="7;9;7" dur="8s" repeatCount="indefinite"/>
   </circle>
   <circle cx="120" cy="43" r="8" fill="#22c55e" filter="url(#glow)"/>
-  <text x="154" y="34" class="meta">OPEN LAB NETWORK</text>
-  <text x="154" y="61" class="label">Explore Labs</text>
+  <text x="154" y="34" class="meta">OPEN PROJECT NETWORK</text>
+  <text x="154" y="61" class="label">Explore Projects</text>
   <text x="348" y="55" class="arrow">-&gt;</text>
 </svg>

@@ -33,20 +33,20 @@
 </p>
 
 <p align="center">
-  <a href="https://hirademami.github.io/neural-lab/index.html"><b>Neural Lab</b></a> ·
-  <a href="https://hirademami.github.io/molecules/index.html"><b>Molecule Lab</b></a> ·
-  <a href="https://hirademami.github.io/model-forge/index.html"><b>Model Forge</b></a>
+  <a href="https://github.com/vishnukumar001/Yashi"><b>Yashi AI</b></a> ·
+  <a href="https://github.com/vishnukumar001/CertiChain"><b>CertiChain</b></a> ·
+  <a href="https://github.com/vishnukumar001/Linux-Journey"><b>Security Labs</b></a>
 </p>
 
 ## Launch Hub
 
-The labs are the interactive side of this profile: small technical environments for exploring systems directly instead of only reading about them.
+The project environments are the hands-on side of this profile: technical implementations for exploring systems directly instead of only reading about them.
 
-| Lab | Status | Value |
+| Environment | Status | Value |
 | --- | --- | --- |
-| [Neural Lab](https://hirademami.github.io/neural-lab/index.html) | Live / evolving | Explore neural-network behavior through visual interaction and model intuition. |
-| [Molecule Lab](https://hirademami.github.io/molecules/index.html) | Prototype | Build molecules from atoms and bonds to make structure, composition, and constraints easier to inspect. |
-| [Model Forge](https://hirademami.github.io/model-forge/index.html) | Planned / experimental | Learn core machine-learning foundations through guided, visual, hands-on concepts. |
+| [Yashi AI](https://github.com/vishnukumar001/Yashi) | Active / evolving | Explore conversational AI and desktop automation with real-time feedback. |
+| [CertiChain](https://github.com/vishnukumar001/CertiChain) | Active | Issue and verify digital credentials on Blockchain and IPFS without intermediaries. |
+| [Security Labs](https://github.com/vishnukumar001/Linux-Journey) | Active / evolving | Practical Linux system administration, network analysis, and security exercises. |
 
 ## Lab Mission
 
@@ -54,13 +54,13 @@ The labs are the interactive side of this profile: small technical environments 
   <img src="../assets/svg/system/labs_mission_pipeline.svg" alt="Lab mission pipeline from direct control to interactive systems" />
 </p>
 
-## What Each Lab Should Prove
+## What Each Project Should Prove
 
-| Lab | It should help visitors understand |
+| Project | It should help visitors understand |
 | --- | --- |
-| Neural Lab | How model structure, signals, and learning behavior connect. |
-| Molecule Lab | How atoms, bonds, and spatial structures produce molecules. |
-| Model Forge | How ML concepts fit together before production implementation. |
+| Yashi AI | How multi-modal AI and desktop control integrate into a unified assistant. |
+| CertiChain | How blockchain immutability solves credential fraud and trust verification. |
+| Security Labs | How real system mechanics work under the hood for security defense and bug hunting. |
 
 ## Related Pages
 
